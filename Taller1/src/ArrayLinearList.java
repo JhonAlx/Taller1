@@ -1,6 +1,4 @@
-import java.util.Iterator;
-import java.util.NoSuchElementException;
-import java.util.Objects;
+import java.util.*;
 
 
 public class ArrayLinearList<T> implements LinearList<T>, Iterable<T> 
